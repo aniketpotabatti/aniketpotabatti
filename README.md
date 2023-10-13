@@ -1,2 +1,2 @@
-# Connect with me
-![](https://komarev.com/ghpvc/?aniketpotabatti&label=PROFILE+VIEWS)
+# [Connect with me](https://twitter.com/AniketPotabatti)
+![](https://komarev.com/ghpvc/?username=aniketpotabatti&label=PROFILE+VIEWS)
