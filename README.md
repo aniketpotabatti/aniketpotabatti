@@ -31,7 +31,7 @@ I also like to read and write blogs, Always open to learning new things.
 ## [Connect with me](https://twitter.com/AniketPotabatti)
 
 <a href="https://twitter.com/AniketPotabatti"><img align="left" src="https://github.com/aniketpotabatti/aniketpotabatti/blob/main/x-social-media-icon.png"></a>
-<a href="www.linkedin.com/in/aniket-potabatti"><img align="left" src="https://github.com/aniketpotabatti/aniketpotabatti/blob/main/linkedin_2504923.png"></a>
+<a href="https://www.linkedin.com/in/aniket-potabatti"><img align="left" src="https://github.com/aniketpotabatti/aniketpotabatti/blob/main/linkedin_2504923.png"></a>
 </br>
 </br>
 ![](https://komarev.com/ghpvc/?username=aniketpotabatti&label=PROFILE+VIEWS)
