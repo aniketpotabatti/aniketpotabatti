@@ -32,6 +32,9 @@ I also like to read and write blogs, Always open to learning new things.
 
 <a href="https://twitter.com/AniketPotabatti"><img align="left" src="x-social-media-logo-icon.png" width="32px"></a>
 <a href="https://www.linkedin.com/in/aniket-potabatti"><img align="left" src="linkedin-app-icon.png" width="32px"></a>
+<a href="https://medium.com/@Aniket01"><img align="left" src="medium_icon_130878.svg" width="32px"></a>
+
+
 </br> 
 </br>
 
