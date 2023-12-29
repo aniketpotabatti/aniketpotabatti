@@ -1,4 +1,4 @@
-## Hi, I'm Aniket Potabatti👋
+## Hi, I'm Aniket Potabatti 👋
 
 A Data Scientist and Machine Learning Enthusiast passionate about creating solid ML models and improving decision-making. I have experience in many programming languages and technologies, including Python, SQL, Java, C++, JavaScript and Data Analytics. I'm also proficient in using machine learning and deep learning libraries such as TensorFlow and PyTorch.
 
