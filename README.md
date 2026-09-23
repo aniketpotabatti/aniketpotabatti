@@ -6,36 +6,14 @@ I enjoy working on personal projects and contributing to open-source projects in
 
 I also like to read and write blogs, Always open to learning new things.
 
-<!--
----
-
-## Skills 
-
-* Python
-* java
-* C
-* C++
-* JavsScript
-* Git
-* Version control
-* SQL
-* Machine learning
-* Deep learning
-* Data science
-* Data visualization
-
-
-* Data analysis
--->
 ---
 ## Connect with me
 
-<a href="https://twitter.com/AniketPotabatti"><img align="left" src="x-social-media-logo-icon.png" width="32px"></a>
-<a href="https://www.linkedin.com/in/aniket-potabatti"><img align="left" src="linkedin-app-icon.png" width="32px"></a>
-<a href="https://medium.com/@Aniket01"><img align="left" src="medium_icon_130878.svg" width="32px"></a>
-<br>
-
----
+[![X](https://readmecodegen.vercel.app/api/social-icon?name=X&size=30)](https://twitter.com/AniketPotabatti)
+[![linkedin](https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=30)](https://www.linkedin.com/in/aniket-potabatti)
+[![medium](https://readmecodegen.vercel.app/api/social-icon?name=medium&size=30)](https://medium.com/@Aniket01)
+[![substack](https://readmecodegen.vercel.app/api/social-icon?name=substack&size=30)](https://aniketpotabatti.substack.com/)
+[![kaggle](https://dummyimage.com/30x30/2A3243/20BEFF&text=k&radius=6px)](https://www.kaggle.com/aniketpotabatti)
 
 ## Blogs
 
